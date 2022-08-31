@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The-Keeper-App](https://github.com/nandinit02/The-Keeper-App)
 
-- 🌱 I’m currently learning **React JS, Data Structures, Algorithms in C++**
+- 🌱 I’m currently learning **React JS, AWS, Data Structures, Algorithms in C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandinit02](https://github.com/nandinit02)
 
